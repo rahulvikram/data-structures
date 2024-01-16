@@ -1,5 +1,5 @@
 # data-structures
-Simple implementations of various data structures in C, along with algorithms
+Simple implementations of various data structures in C, along with algorithms.
 
 ### Singly Linked List
 ### Doubly Linked List
